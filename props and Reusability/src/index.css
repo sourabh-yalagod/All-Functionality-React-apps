@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root{
+    min-height: 100vh;
+    width: 100%;
+    margin-inline:auto;
+    padding-inline: 200px;
+    background: linear-gradient(45deg,rgb(52, 52, 250),rgb(235, 41, 225),rgb(57, 255, 57));
+}
